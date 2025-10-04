@@ -1,14 +1,5 @@
 # Hi there! 👋  
-I'm Sahra, a web developer with a passion for creating user-friendly and responsive web applications.  
-
-## About me  
-- 🎓 Currently studying Biology at Uludağ University (expected 2027)  
-- 💻 Web development has been my focus for the past 2 years  
-- 🌱 I love spending my time at the computer learning new technologies and improving my skills  
-- 🌍 Currently interning
-- 🚀 Open to international opportunities in web and software development  
-
-## Skills  
+I'm Sahra, a web developer with a passion for creating user-friendly and responsive web applications.
 
 ### Languages & Frameworks  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
