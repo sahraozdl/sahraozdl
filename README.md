@@ -5,7 +5,7 @@ I'm Sahra, a web developer with a passion for creating user-friendly and respons
 - 🎓 Currently studying Biology at Uludağ University (expected 2027)  
 - 💻 Web development has been my focus for the past 2 years  
 - 🌱 I love spending my time at the computer learning new technologies and improving my skills  
-- 🌍 Currently interning in Oslo, Norway  
+- 🌍 Currently interning
 - 🚀 Open to international opportunities in web and software development  
 
 ## Skills  
